@@ -1,1 +1,1 @@
-# Healthapp_GoogleGeminiLLM
+# calorie_calculator_app_GoogleGeminiLLM
